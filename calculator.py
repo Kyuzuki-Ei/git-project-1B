@@ -3,5 +3,6 @@ b = 2
 c = a + b
 print(f"hasilnya adalah {c}")
 
+pembagian = a / b
+print("pembagian")
 perkalian = a * b
-print("perkalian")
